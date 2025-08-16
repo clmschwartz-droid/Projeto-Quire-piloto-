@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "pt": [
+      "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957) — com destaques"
+    ]
+  },
+  "rights": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/rights/imagens",
+  "requiredStatement": {
+    "label": {
+      "pt": [
+        "Crédito"
+      ]
+    },
+    "value": {
+      "pt": [
+        "Cortesia da Coleção Particular. Imagens sob direitos reservados."
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "pt": [
+          "Folha 1r (frente)"
+        ]
+      },
+      "width": 762,
+      "height": 1000,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/frente-thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1/anno/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1",
+              "body": {
+                "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/frente.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 762,
+                "height": 1000
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": {
+        "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1/notes",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/anno/h1",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1#xywh=84,252,596,73",
+            "body": {
+              "type": "TextualBody",
+              "value": "“Um sapato para Pedrinho”: ‘a mão da mãe’ parece nome feio... (comentário estilístico)",
+              "language": "pt"
+            }
+          },
+          {
+            "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/anno/h2",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1#xywh=73,398,627,92",
+            "body": {
+              "type": "TextualBody",
+              "value": "“antes de mais nada... a impressão forte, tensa... técnica narrativa sem precedente...” (elogio)",
+              "language": "pt"
+            }
+          },
+          {
+            "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/anno/h3",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1#xywh=76,536,627,84",
+            "body": {
+              "type": "TextualBody",
+              "value": "“Vejo que não estou me exprimindo a contento... seu livro é ótimo... técnica absolutamente pessoais.”",
+              "language": "pt"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "pt": [
+          "Folha 1v (verso)"
+        ]
+      },
+      "width": 716,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2/anno/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2",
+              "body": {
+                "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 716,
+                "height": 1000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
