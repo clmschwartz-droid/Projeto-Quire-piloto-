@@ -1,0 +1,97 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "pt": [
+      "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)"
+    ]
+  },
+  "rights": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/rights/imagens",
+  "requiredStatement": {
+    "label": {
+      "pt": [
+        "Crédito"
+      ]
+    },
+    "value": {
+      "pt": [
+        "Cortesia da Coleção Particular. Imagens sob direitos reservados."
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "pt": [
+          "Folha 1r (frente)"
+        ]
+      },
+      "height": 1307,
+      "width": 997,
+      "thumbnail": [
+        {
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente-thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300
+        }
+      ],
+      "items": [
+        {
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1/anno/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+              "body": {
+                "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1307,
+                "width": 997
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "pt": [
+          "Folha 1v (verso)"
+        ]
+      },
+      "height": 1378,
+      "width": 988,
+      "items": [
+        {
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2/anno/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2",
+              "body": {
+                "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1378,
+                "width": 988
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
