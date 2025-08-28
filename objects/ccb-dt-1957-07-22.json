@@ -1,0 +1,32 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/objects/ccb-dt-1957-07-22.json",
+  "type": "HumanMadeObject",
+  "_label": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)",
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)"
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "IIIF Manifest",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "IIIF Presentation Manifest",
+          "conforms_to": [
+            {
+              "type": "InformationObject",
+              "id": "http://iiif.io/api/presentation/"
+            }
+          ],
+          "format": "application/ld+json;profile=\"http://iiif.io/api/presentation/3/context.json\"",
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest.json"
+        }
+      ]
+    }
+  ]
+}
