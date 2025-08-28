@@ -1,0 +1,99 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/objects/ccb-dt-1957-07-22.json",
+  "type": "HumanMadeObject",
+  "_label": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)",
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)"
+    },
+    {
+      "type": "Identifier",
+      "content": "MS-CCB-DT-1957-07-22"
+    }
+  ],
+  "classified_as": [
+    {
+      "type": "Type",
+      "id": "http://vocab.getty.edu/aat/300028051",
+      "_label": "Manuscript"
+    }
+  ],
+  "produced_by": {
+    "type": "Production",
+    "_label": "Produção do manuscrito",
+    "carried_out_by": [
+      {
+        "type": "Person",
+        "_label": "Carlos Castello Branco"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "_label": "22 julho 1957",
+      "begin_of_the_begin": "1957-07-22",
+      "end_of_the_end": "1957-07-22"
+    },
+    "took_place_at": [
+      {
+        "type": "Place",
+        "_label": "São Paulo-SP / Curitiba-PR"
+      }
+    ]
+  },
+  "carries": [
+    {
+      "type": "LinguisticObject",
+      "_label": "Conteúdo textual da carta",
+      "language": [
+        {
+          "type": "Language",
+          "id": "https://id.loc.gov/vocabulary/iso639-2/por",
+          "_label": "Português"
+        }
+      ],
+      "referred_to_by": [
+        {
+          "type": "LinguisticObject",
+          "_label": "Destinatário",
+          "content": "Para: Dalton Trevisan"
+        },
+        {
+          "type": "LinguisticObject",
+          "_label": "Resumo",
+          "content": "Comentários estilísticos sobre versão intermediária dos contos de 'Novelas Nada Exemplares', incluindo observações sobre 'Um sapato para Pedrinho' e elogios à técnica narrativa de Trevisan."
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "Manifest IIIF v3 (apresentação)",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "IIIF Presentation Manifest",
+          "access_point": [
+            {
+              "type": "DigitalObject",
+              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest.json"
+            }
+          ],
+          "conforms_to": [
+            {
+              "type": "InformationObject",
+              "id": "http://iiif.io/api/presentation/"
+            }
+          ],
+          "format": "application/ld+json;profile=\"http://iiif.io/api/presentation/3/context.json\""
+        }
+      ]
+    }
+  ],
+  "current_owner": {
+    "type": "Group",
+    "_label": "Coleção particular"
+  }
+}
