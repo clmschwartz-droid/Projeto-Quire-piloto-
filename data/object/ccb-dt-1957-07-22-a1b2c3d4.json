@@ -1,0 +1,52 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/data/object/ccb-dt-1957-07-22-a1b2c3d4.json",
+  "type": "HumanMadeObject",
+  "_label": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)",
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)"
+    },
+    {
+      "type": "Identifier",
+      "content": "MS-CCB-DT-1957-07-22"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "_label": "Resumo",
+      "content": "Comentários estilísticos sobre versão intermediária dos contos de 'Novelas Nada Exemplares'."
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "DigitalObject",
+      "_label": "IIIF Presentation Manifest",
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest.json",
+      "conforms_to": [
+        {
+          "type": "InformationObject",
+          "id": "http://iiif.io/api/presentation/3/context.json"
+        }
+      ],
+      "classified_as": [
+        {
+          "type": "Type",
+          "id": "http://vocab.getty.edu/aat/300264578",
+          "_label": "IIIF manifest"
+        }
+      ],
+      "format": "application/ld+json"
+    }
+  ],
+  "representation": [
+    {
+      "type": "DigitalObject",
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente.jpg",
+      "format": "image/jpeg",
+      "_label": "lead image"
+    }
+  ]
+}
