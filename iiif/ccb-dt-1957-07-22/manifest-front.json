@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest-front.json",
+  "type": "Manifest",
+  "label": {
+    "pt": [
+      "Carta de Carlos Castello Branco a Dalton Trevisan (22 jul. 1957)"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente-thumb.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 229,
+      "height": 300,
+      "service": [
+        {
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente-thumb.jpg",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "pt": [
+          "Frente"
+        ]
+      },
+      "height": 1307,
+      "width": 997,
+      "items": [
+        {
+          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/page/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+              "body": {
+                "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 997,
+                "height": 1307,
+                "service": [
+                  {
+                    "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente.jpg",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
