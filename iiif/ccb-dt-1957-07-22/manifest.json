@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/manifest.json",
+  "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/manifest.json",
   "type": "Manifest",
   "label": {
     "pt": [
@@ -71,7 +71,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente-thumb.jpg",
+      "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/frente-thumb.jpg",
       "type": "Image",
       "format": "image/jpeg",
       "width": 229,
@@ -80,7 +80,7 @@
   ],
   "items": [
     {
-      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+      "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1",
       "type": "Canvas",
       "label": {
         "pt": [
@@ -91,16 +91,16 @@
       "width": 997,
       "items": [
         {
-          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/page/1/1",
+          "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/page/1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/annotation/1",
+              "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/1",
+              "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/1",
               "body": {
-                "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/frente.jpg",
+                "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/frente.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 997,
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2",
+      "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2",
       "type": "Canvas",
       "label": {
         "pt": [
@@ -123,16 +123,16 @@
       "width": 988,
       "items": [
         {
-          "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/page/2/1",
+          "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/page/2/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/annotation/2",
+              "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/iiif/ccb-dt-1957-07-22/canvas/2",
+              "target": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/iiif/ccb-dt-1957-07-22/canvas/2",
               "body": {
-                "id": "https://clmschwartz-droid.github.io/Projeto-Quire-piloto-/media/ccb-dt-1957-07-22/verso.jpg",
+                "id": "https://raw.githubusercontent.com/clmschwartz-droid/Projeto-Quire-piloto-/main/media/ccb-dt-1957-07-22/verso.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 988,
